@@ -2,7 +2,7 @@
 """
 Created on Wed Nov  3 14:57:53 2021
 
-@author: amali
+@author: amalie odegard
 """
 
 import random 
